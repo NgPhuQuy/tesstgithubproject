@@ -3,4 +3,4 @@
 
 Guide
 <video src="huongdan.mp4" controls width="100%"></video>
-[▶ Xem video hướng dẫn](https://github.com/NgPhuQuy/tesstgithubproject/blob/main/huongdan.mp4)
+[▶ Xem video hướng dẫn](huongdan.mp4)
